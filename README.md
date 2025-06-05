@@ -4,9 +4,9 @@
 <h3 align="center">Full-Stack Developer | Game Enthusiast | Music Lover</h3>
 
 
-<p align="left"> <a href="https://twitter.com/jaskrnsroay" target="blank"><img src="https://img.shields.io/twitter/follow/jaskrnsroay?logo=twitter&style=for-the-badge" alt="jaskrnsings" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jaskrninlove" target="blank"><img src="https://img.shields.io/twitter/follow/jaskrninlove?logo=twitter&style=for-the-badge" alt="jaskrnsings" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskrnsroay1&label=Profile%20views&color=0e75b6&style=flat" alt="jaskrnsings" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskrnsings1&label=Profile%20views&color=0e75b6&style=flat" alt="jaskrnsings" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaskrnsroay" alt="jaskrnsings" /></a> </p>
 
